@@ -18,12 +18,6 @@ namespace Demo_AdoNet_Project
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-
         // Data Source=DESKTOP-4EVNNNJ;Initial Catalog=DbistanbulAkademi;Integrated Security=True
 
         //void topla(int s1, int s2)

@@ -144,7 +144,7 @@ namespace Demo_AdoNet_Project
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Kategori Formu";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            //this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dtgCategory)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
